@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Honolulu",
+    "timezone": "Pacific/Honolulu",
+    "image": "united-states"
+  },
+  {
+    "city": "Vancouver",
+    "timezone": "America/Vancouver",
+    "image": "canada"
+  },
+    {
+    "city": "New York",
+    "timezone": "America/New_York",
+    "image": "united-states"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "timezone": "America/Sao_Paulo",
+    "image": "brazil"
+  },
+  {
+    "city": "London",
+    "timezone": "Europe/London",
+    "image": "united-kingdom"
+  },
+  {
+    "city": "Rome",
+    "timezone": "Europe/Rome",
+    "image": "italy"
+  },
+  {
+    "city": "Moscow",
+    "timezone": "Europe/Moscow",
+    "image": "russia"
+  },
+  {
+    "city": "Dubai",
+    "timezone": "Asia/Dubai",
+    "image": "united-arab-emirates"
+  },
+  {
+    "city": "Mumbai",
+    "timezone": "Asia/Kolkata",
+    "image": "india"
+  },
+  {
+    "city": "Bangkok",
+    "timezone": "Asia/Bangkok",
+    "image": "thailand"
+  },
+  {
+    "city": "Hong Kong",
+    "timezone": "Asia/Hong_Kong",
+    "image": "hong-kong"
+  },
+  {
+    "city": "Tokyo",
+    "timezone": "Asia/Tokyo",
+    "image": "japan"
+  }
+]
