@@ -9,7 +9,7 @@
     "i": "^0.3.6",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.23",
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
